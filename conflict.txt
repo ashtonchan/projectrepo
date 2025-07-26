@@ -1,1 +1,1 @@
-Input from featurex2 branch
+New conflicting input from master branch
