@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New conflicting input from master branch
+=======
+New conflicting input from featurex2 branch
+>>>>>>> featurex2
